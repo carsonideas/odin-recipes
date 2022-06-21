@@ -1,0 +1,57 @@
+.index
+{
+    color: red;
+}
+.food
+{
+    background-image: url(images/odin-recipes.gif);
+    background-repeat: no-repeat;
+  
+    background-size: 1490px;
+}
+
+.index2{
+    padding-left: 0%;
+    padding-top: 560px;
+}
+
+.sloppy,
+.fried,
+.marg
+{
+    color: orangered;
+    font-size: 50px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+}
+.ribs,
+.joes,
+.chicken
+{
+    background-color: rgb(180, 207, 24) ;
+    background-repeat: no-repeat;
+}
+.burger,
+.kfc,
+.corn
+{
+width: 700px;
+height: 550px;
+}
+.chick1,
+.rib1,
+.joe1
+{
+    text-align: center;
+    padding: 2px;
+    background-color: white;
+    color: orangered;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 220px;
+    margin-right: 70px;
+    border-left: 20px;
+    border-right: 20px;
+    border-top: 20px;
+}
