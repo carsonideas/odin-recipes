@@ -7,7 +7,7 @@
     background-image: url(images/odin-recipes.gif);
     background-repeat: no-repeat;
   background-color: orange;
-    background-size: auto;
+    background-size: 1690px;
 }
 
 .index2{
@@ -29,7 +29,7 @@
 .joes,
 .chicken
 {
-    background-color: rgb(180, 207, 24) ;
+    background-color: orange;;
     background-repeat: no-repeat;
 }
 .burger,
