@@ -44,7 +44,7 @@
 .kfc,
 .corn
 {
-width: auto;
+width: 700px;
 height: 550px;
 }
 .chick1,
@@ -57,7 +57,7 @@ height: 550px;
     color: orangered;
     font-weight: 700;
     margin-top: 20px;
-    margin-left: auto;
+    margin-left: 220px;
     margin-right: 70px;
     border-left: 20px;
     border-right: 20px;
